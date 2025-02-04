@@ -6,7 +6,7 @@ Este é o meu portfólio pessoal, onde apresento minhas habilidades, projetos e 
 
 Este portfólio foi desenvolvido com HTML, CSS e conta com estilização responsiva para garantir uma boa experiência do usuário em diferentes dispositivos.
 
-## Tecnologias Utilizadas##
+## Tecnologias Utilizadas
 
 HTML5
 
