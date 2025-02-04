@@ -1,4 +1,4 @@
-#Portfólio - Isabelle Toricelli da Silva#
+# Portfólio - Isabelle Toricelli da Silva
 
 Este é o meu portfólio pessoal, onde apresento minhas habilidades, projetos e experiência na área de tecnologia.
 
