@@ -4,14 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portifólio</title>
+    <title>Portfólio</title>
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 </head>
 
 <body>
-    <header>
+    <header class="cabecalho">
         <!--Cabeçalho-->
+        <nav class="cabecalho_menu">
+            <a  class="cabecalho_menu_link" href="">Home</a>
+            <a  class="cabecalho_menu_link" href="about.html">Sobre mim</a>
+        </nav>
     </header>
     <main class="apresentacao">
         <!--Corpo da página-->
@@ -23,17 +28,23 @@
                 React, HTML e CSS. Ajudo
                 pequenos negócios e designers a colocarem em prática boas ideias. Vamos conversar?</p>
             <div class="apresentacao_link">
+                <h2 class="apresentacao_link_subtitulo">Acesse minhas redes: </h2>
+                <a class="apresentacao_link_link" href="https://github.com/IsabelleToricelli"><i class="fa-brands fa-github"></i>GitHub</a>
                 <a class="apresentacao_link_link"
-                    href="https://www.instagram.com/isabelle.toricelli_?igsh=MXY0OXFscDJlbHFi&utm_source=qr">Instagram</a>
-                <a class="apresentacao_link_link" href="https://github.com/IsabelleToricelli">GitHub</a>
+                    href="https://www.linkedin.com/in/isabelle-toricelli-da-silva-a79b95186/"><i class="fa-brands fa-linkedin-in"></i>Linkedin </a>
+                <a class="apresentacao_link_link"
+                    href="https://www.instagram.com/isabelle.toricelli_?igsh=MXY0OXFscDJlbHFi&utm_source=qr"><i class="fa-brands fa-instagram"></i>Instagram </a>
+
             </div>
         </section>
         <section class="apresentacao_imagem">
-            <img src="./Imagens/Imagem (1).png" alt="Imagem da programadora">
+            <img src="./assets/foto_programadora.jpeg" alt="Imagem da programadora">
         </section>
     </main>
-    <footer>
+    <footer class="rodape">
         <!--Rodapé-->
+        <p>Desenvolvido por Isabelle Toricelli
+        <p>
     </footer>
 </body>
 
